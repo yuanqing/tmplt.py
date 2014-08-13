@@ -80,6 +80,3 @@ class TestTmplt(unittest.TestCase):
     self.assertEqual('', render('{{ foo }}', t))
     self.assertEqual('', render('{{ 1 }}', t))
     self.assertEqual('', render('{{ 0.1 }}', t))
-
-if __name__ == "__main__":
-  unittest.main()

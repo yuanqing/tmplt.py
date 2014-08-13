@@ -1,1 +1,1 @@
-nosetests --with-coverage --cover-html
+nosetests --with-coverage
