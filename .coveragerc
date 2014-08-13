@@ -1,1 +1,1 @@
-[report]omit =  */python?.?/*  test/*
+[report]omit =  */python?.?/*  */site-packages/nose/*
