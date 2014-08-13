@@ -8,4 +8,4 @@ data = {
     'qux': lambda d: d['bar']
   }
 }
-print render(tmpl, data)
+print render(tmpl, data) #=> 'Hello, World!'

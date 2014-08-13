@@ -1,4 +1,4 @@
-# Tmplt.py [![PyPI Version](http://img.shields.io/pypi/v/tmplt.svg?style=flat)](https://www.npmjs.org/package/tmplt) [![Build Status](https://img.shields.io/travis/yuanqing/tmplt.py.svg?style=flat)](https://travis-ci.org/yuanqing/tmplt.py) [![Coverage Status](https://img.shields.io/coveralls/yuanqing/tmplt.py.svg?style=flat)](https://coveralls.io/r/yuanqing/tmplt.py)
+# Tmplt.py [![PyPI Version](http://img.shields.io/pypi/v/tmplt.svg?style=flat)](https://pypi.python.org/pypi/tmplt) [![Build Status](https://img.shields.io/travis/yuanqing/tmplt.py.svg?style=flat)](https://travis-ci.org/yuanqing/tmplt.py) [![Coverage Status](https://img.shields.io/coveralls/yuanqing/tmplt.py.svg?style=flat)](https://coveralls.io/r/yuanqing/tmplt.py)
 
 > Minimal templating for Python.
 
