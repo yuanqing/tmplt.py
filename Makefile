@@ -1,4 +1,4 @@
 test:
-  nosetests --with-coverage --cover-package=tmplt
+	nosetests --with-coverage --cover-package=tmplt
 
 .PHONY: test
